@@ -1,0 +1,37 @@
+projects {
+	web []
+	movil[]
+	ai[]
+	gaming[]
+}
+
+blog
+
+languages known{
+	html
+	css[
+		bootstrap
+	]
+	js [
+		jquery.js
+		skel.js
+	]
+	Java
+	Python
+	Ruby
+	PHP
+	C
+	C++
+	CSharp
+	Objective C
+	Unix
+	Linux
+}
+
+frameworks known{
+	Android 2.2+
+	iOs
+	.Net
+	Ruby on Rails
+	node.js
+}
